@@ -35,7 +35,6 @@
 ---
 
 ### 💻 Tech Stack
-*(Dianalisis dari repositori & proyek: Full-Stack Web, AI/ML, dan Tools)*
 
 #### 🚀 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
